@@ -20,19 +20,24 @@ Store workers — not designers — create the promotional posts. The workflow:
 
 No design skills, no Canva, no waiting for "the marketing person." The templates guarantee every post looks on-brand regardless of who makes it.
 
+
+
 ## Screenshots
 
-| Capture & cutout | Template selection | Generated post |
-|---|---|---|
-| ![Capture]<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-49-21-334_com market marketing" src="https://github.com/user-attachments/assets/aa9933f3-5b7f-464d-9773-5fb5b80007da" />
+<table>
+  <tr>
+    <th>Capture &amp; cutout</th>
+    <th>Template selection</th>
+    <th>Generated post</th>
+  </tr>
+  <tr>
+    <td><img width="240" alt="Capture and cutout" src="https://github.com/user-attachments/assets/aa9933f3-5b7f-464d-9773-5fb5b80007da" /></td>
+    <td><img width="240" alt="Template selection" src="https://github.com/user-attachments/assets/93bdaefb-0527-460a-a844-4f692ee76dd1" /></td>
+    <td><img width="240" alt="Generated post" src="https://github.com/user-attachments/assets/794314a7-f047-492e-888f-dcb5e2df1412" /></td>
+  </tr>
+</table>
 
- | ![Templates]<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-49-13-602_com market marketing" src="https://github.com/user-attachments/assets/93bdaefb-0527-460a-a844-4f692ee76dd1" />
- 
- | ![Result]<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-48-45-321_com market marketing" src="https://github.com/user-attachments/assets/794314a7-f047-492e-888f-dcb5e2df1412" />
- 
- 
 
-*(More in the [screenshots](screenshots/) folder.)*
 
 ## Technical highlights
 
