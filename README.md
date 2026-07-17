@@ -2,7 +2,9 @@
 
 **Android app that turns a product photo into a ready-to-post social media promo in under a minute — built for and used daily by STR Market, a two-location retail business in Serbia.**
 
-📥 **[Download the latest APK →](../../releases/latest)** · 🎬 **[Watch the 90-second demo →](VIDEO_LINK_HERE)** · 🌐 **[strmarket.org](https://strmarket.org/)**
+📥 **[Download the latest APK →](../../releases/latest)** · 🎬 **[Watch the 90-second demo →](
+https://github.com/user-attachments/assets/76fc70cf-a8db-4695-8edc-a24af2e8f3a1
+)** · 🌐 **[strmarket.org](https://strmarket.org/)**
 
 ---
 
@@ -22,7 +24,10 @@ No design skills, no Canva, no waiting for "the marketing person." The templates
 
 | Capture & cutout | Template selection | Generated post |
 |---|---|---|
-| ![Capture](screenshots/01-capture.png) | ![Templates](screenshots/02-templates.png) | ![Result](screenshots/03-result.png) |
+| ![Capture](<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-49-21-334_com market marketing" src="https://github.com/user-attachments/assets/aa9933f3-5b7f-464d-9773-5fb5b80007da" />
+) | ![Templates](<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-49-13-602_com market marketing" src="https://github.com/user-attachments/assets/93bdaefb-0527-460a-a844-4f692ee76dd1" />
+) | ![Result](<img width="1080" height="2400" alt="Screenshot_2026-07-17-07-48-45-321_com market marketing" src="https://github.com/user-attachments/assets/794314a7-f047-492e-888f-dcb5e2df1412" />
+) |
 
 *(More in the [screenshots](screenshots/) folder.)*
 
@@ -42,9 +47,9 @@ Interested in how it's built? I'm happy to walk through the architecture and cod
 
 ## Author
 
-**Filip Kovač** — Computer Science student & developer, Pačir, Serbia
+Filip Kovacs — Computer Science student & developer, Pačir, Serbia
 📧 filip.kovac.pacir@gmail.com
 
----
 
-*Also see my other projects: [GameStore (PHP/MySQL, full source)](GITHUB_GAMESTORE_LINK) · [SwissKnife (.NET MAUI desktop)](GITHUB_SWISSKNIFE_LINK) · [SEF/eFaktura integration architecture](GITHUB_SEF_LINK)*
+
+
